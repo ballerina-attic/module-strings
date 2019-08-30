@@ -1,0 +1,15 @@
+[project]
+org-name= "wso2"
+version= "0.1.0"
+
+[dependencies]
+
+[platform]
+target = "java8"
+
+  [[platform.libraries]]
+  module = "strings"
+  path = "./utils/target/strings-utils-0.8.0.jar"
+  artafactId = "strings-utils"
+  version = "0.8.0"
+  groupId = "org.wso2.ei"
