@@ -82,7 +82,7 @@
         <maven.checkstyleplugin.excludes>**/generated/**</maven.checkstyleplugin.excludes>
         <maven.spotbugsplugin.exclude.file>spotbugs-exclude.xml</maven.spotbugsplugin.exclude.file>
         <commons.validator.version>1.6</commons.validator.version>
-        <google.guava.version>27.0-jre</google.guava.version>
+        <google.guava.version>29.0-jre</google.guava.version>
         <slf4j.version>1.7.21</slf4j.version>
         <jms.version>2.0.1</jms.version>
     </properties>
